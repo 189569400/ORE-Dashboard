@@ -12,7 +12,7 @@
     <description></description>
     <url></url>
     <properties>
-        <spark.version>2.3</spark.version>
+        <spark.version>2.7.2</spark.version>
         <hibernate.version>4.3.5.Final</hibernate.version>
         <hibernate.validator.version>5.2.2.Final</hibernate.validator.version>
         <jackson.version>2.5.1</jackson.version>
